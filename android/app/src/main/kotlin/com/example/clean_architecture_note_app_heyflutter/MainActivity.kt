@@ -1,4 +1,4 @@
-package com.example.note_app_clean_arch
+package com.example.clean_architecture_note_app_heyflutter
 
 import io.flutter.embedding.android.FlutterActivity
 

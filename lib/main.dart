@@ -5,7 +5,6 @@ import 'package:note_app_clean_arch/data/datasource/local_data/database_helper.d
 import 'package:note_app_clean_arch/presentation/bloc/note_bloc.dart';
 import 'package:note_app_clean_arch/presentation/pages/home_page.dart';
 import 'package:provider/provider.dart';
-
 import 'injection.dart' as di;
 
 void main() async {
